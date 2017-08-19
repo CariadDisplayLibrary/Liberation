@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: Liberation.h
-Description: 
+Description: Liberation font for DisplayCore
